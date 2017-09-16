@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.samsung.android.sone.dev",
+    "sha256_cert_fingerprints":
+    ["30:EF:B1:1D:9F:25:AA:03:31:0B:40:8F:13:29:A7:AF:B5:D1:AE:BD:B2:C5:97:AF:99:32:31:56:42:4C:07:F4"]
+  }
+}]
